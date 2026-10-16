@@ -7,10 +7,8 @@
 https://raw.githubusercontent.com/tom990103/testppp/main/ip.txt
 ```
 
-**完整详情（含延迟/丢包率/地区码）：**
-```
-https://raw.githubusercontent.com/tom990103/testppp/main/ip-detail.md
-```
+**ip.txt格式：** 
 
-- 最近更新: $(date '+%Y-%m-%d %H:%M:%S')
+- 最近更新: 2026-10-16 20:32:00
+- IP数量: 30
 - 数据源: 242 NAS → Docker cfst-bestip容器
