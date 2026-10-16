@@ -12,6 +12,5 @@ https://raw.githubusercontent.com/tom990103/testppp/main/ip.txt
 https://raw.githubusercontent.com/tom990103/testppp/main/ip-detail.md
 ```
 
-- 最近更新: 2026-10-16 19:22:03
-- IP数量: 20
+- 最近更新: $(date '+%Y-%m-%d %H:%M:%S')
 - 数据源: 242 NAS → Docker cfst-bestip容器
