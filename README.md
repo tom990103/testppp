@@ -9,6 +9,6 @@ https://raw.githubusercontent.com/tom990103/testppp/main/ip.txt
 
 **ip.txt格式：** `IP # 延迟ms # 速度MB/s # 地区码`
 
-- 最近更新: 2026-10-19 18:26:50
-- IP数量: 55
+- 最近更新: 2026-10-19 18:37:19
+- IP数量: 45
 - 数据源: 242 NAS → Docker cfst-bestip容器
