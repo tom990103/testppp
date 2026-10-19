@@ -23,15 +23,15 @@
 104.17.197.112 # 优选 223.95 ms  1.04 MB/s 美国
 162.159.237.33 # 优选 249.68 ms  1.02 MB/s 美国
 
-cmcc.cc.cd # 优选 265 ms  N/A (域名)
-store.rg-adguard.net # 优选 395 ms  N/A (域名)
+cmcc.cc.cd # 优选 265 ms  日本 (域名)
+store.rg-adguard.net # 优选 395 ms  日本 (域名)
 www.wto.org # 优选 530 ms  新加坡 (域名)
 mfa.gov.ua # 优选 601 ms  新加坡 (域名)
 www.vmware.com # 优选 645 ms  新加坡 (域名)
-token.im # 优选 694 ms  N/A (域名)
+token.im # 优选 694 ms  日本 (域名)
 m.iyf.tv # 优选 771 ms  新加坡 (域名)
-i.111666.best # 优选 774 ms  N/A (域名)
-cdnjs.loli.net # 优选 784 ms  N/A (域名)
+i.111666.best # 优选 774 ms  日本 (域名)
+cdnjs.loli.net # 优选 784 ms  日本 (域名)
 wppaunz.com # 优选 785 ms  新加坡 (域名)
 www.broadcom.com # 优选 790 ms  新加坡 (域名)
 securecircle.com # 优选 800 ms  新加坡 (域名)
