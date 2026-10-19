@@ -22,23 +22,23 @@
 198.41.217.53 # 优选 223.14 ms  1.06 MB/s 美国
 104.17.197.112 # 优选 223.95 ms  1.04 MB/s 美国
 162.159.237.33 # 优选 249.68 ms  1.02 MB/s 美国
-cmcc.cc.cd # 优选 265 ms  日本 (域名)
-store.rg-adguard.net # 优选 395 ms  日本 (域名)
-www.wto.org # 优选 530 ms  新加坡 (域名)
-mfa.gov.ua # 优选 601 ms  新加坡 (域名)
-www.vmware.com # 优选 645 ms  新加坡 (域名)
-token.im # 优选 694 ms  日本 (域名)
-m.iyf.tv # 优选 771 ms  新加坡 (域名)
-i.111666.best # 优选 774 ms  日本 (域名)
-cdnjs.loli.net # 优选 784 ms  日本 (域名)
-wppaunz.com # 优选 785 ms  新加坡 (域名)
-www.broadcom.com # 优选 790 ms  新加坡 (域名)
-securecircle.com # 优选 800 ms  新加坡 (域名)
-versantstore.pearson.com # 优选 815 ms  新加坡 (域名)
-egov.uscis.gov # 优选 817 ms  新加坡 (域名)
-constitution.congress.gov # 优选 821 ms  新加坡 (域名)
-jobsdb.com # 优选 824 ms  新加坡 (域名)
-dianomi.com # 优选 826 ms  新加坡 (域名)
-www.dentoncounty.gov # 优选 826 ms  新加坡 (域名)
-coreweave.com # 优选 839 ms  新加坡 (域名)
-cdn.555586.xyz # 优选 841 ms  新加坡 (域名)
+cmcc.cc.cd # 优选 265 ms  日本
+store.rg-adguard.net # 优选 395 ms  日本
+www.wto.org # 优选 530 ms  新加坡
+mfa.gov.ua # 优选 601 ms  新加坡
+www.vmware.com # 优选 645 ms  新加坡
+token.im # 优选 694 ms  日本
+m.iyf.tv # 优选 771 ms  新加坡
+i.111666.best # 优选 774 ms  日本
+cdnjs.loli.net # 优选 784 ms  日本
+wppaunz.com # 优选 785 ms  新加坡
+www.broadcom.com # 优选 790 ms  新加坡
+securecircle.com # 优选 800 ms  新加坡
+versantstore.pearson.com # 优选 815 ms  新加坡
+egov.uscis.gov # 优选 817 ms  新加坡
+constitution.congress.gov # 优选 821 ms  新加坡
+jobsdb.com # 优选 824 ms  新加坡
+dianomi.com # 优选 826 ms  新加坡
+www.dentoncounty.gov # 优选 826 ms  新加坡
+coreweave.com # 优选 839 ms  新加坡
+cdn.555586.xyz # 优选 841 ms  新加坡
