@@ -1,24 +1,30 @@
-162.159.45.221 # 优选 128.40 ms  1.57 MB/s 日本
-104.26.8.246 # 优选 210.57 ms  1.55 MB/s 德国
-162.159.41.32 # 优选 125.34 ms  1.51 MB/s 新加坡
-108.162.198.194 # 优选 125.92 ms  1.48 MB/s 日本
-162.159.44.159 # 优选 128.95 ms  1.38 MB/s 日本
-162.159.39.131 # 优选 122.73 ms  1.38 MB/s 日本
-172.64.53.37 # 优选 127.76 ms  1.33 MB/s 日本
-104.27.66.152 # 优选 210.70 ms  1.30 MB/s 德国
-172.64.146.108 # 优选 132.94 ms  1.25 MB/s 新加坡
-172.64.144.83 # 优选 128.02 ms  1.23 MB/s 新加坡
-172.64.152.68 # 优选 129.48 ms  1.20 MB/s 新加坡
-162.159.8.112 # 优选 133.51 ms  1.20 MB/s 新加坡
-104.16.199.194 # 优选 221.81 ms  1.20 MB/s 美国
-104.25.242.36 # 优选 207.08 ms  1.19 MB/s 德国
-198.41.213.229 # 优选 244.97 ms  1.16 MB/s 美国
-104.27.102.162 # 优选 210.64 ms  1.15 MB/s 德国
-104.17.170.53 # 优选 223.59 ms  1.13 MB/s 美国
-198.41.219.164 # 优选 246.17 ms  1.10 MB/s 美国
-172.64.79.165 # 优选 236.45 ms  1.10 MB/s 美国
-172.66.203.68 # 优选 208.15 ms  1.08 MB/s 德国
-104.18.131.51 # 优选 220.81 ms  1.08 MB/s 美国
-198.41.217.53 # 优选 223.14 ms  1.06 MB/s 美国
-104.17.197.112 # 优选 223.95 ms  1.04 MB/s 美国
-162.159.237.33 # 优选 249.68 ms  1.02 MB/s 美国
+cdnjs.loli.net
+aakashgupta.substack.com
+missav.ws
+token.im
+store.rg-adguard.net
+m.iyf.tv
+cf-ip-site.vov.moe
+egov.uscis.gov
+kickstarter.com
+www.mastervolt.com
+www.carousell.sg
+wppaunz.com
+www.broadcom.com
+www.jp.pima.gov
+www.zendesk.com
+www.gov.il
+www.dentoncounty.gov
+uspto.gov
+coreweave.com
+mail.notion.com
+securecircle.com
+versantstore.pearson.com
+cfplus.255520.xyz
+cdn.ddeed.de
+p.etime.vip
+www.bis.gov
+so.360832.xyz
+cmcc.cc.cd
+www.wto.org
+stores.staples.com
